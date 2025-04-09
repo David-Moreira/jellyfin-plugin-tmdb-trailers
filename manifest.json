@@ -7,8 +7,25 @@
         "owner": "David-Moreira",
         "category": "Channels",
         "imageUrl": "https://raw.githubusercontent.com/crobibero/jellyfin-plugin-tmdb-trailers/master/Jellyfin.Plugin.Tmdb.Trailers/Images/jellyfin-plugin-tmdb.png",
+        "versions": []
+    },
+    {
+        "guid": "69104c31-d23f-4040-b99c-8913c09751d6",
+        "name": "TMDb Trailers",
+        "description": "Watch trailers from TMDb\n",
+        "overview": "Watch trailers from TMDb",
+        "owner": "crobibero",
+        "category": "Channels",
         "versions": [
-
-        ]
+            {
+                "version": "14.0.0.0",
+                "changelog": "- Update actions/checkout digest to eef6144 - autoclosed (#126) @renovate\n- Update actions/upload-artifact action to v4.4.3 (#127) @renovate\n- Update Youtube to 6.4.3 (#125) @renovate\n- Update Youtube to 6.4.1 (#124) @renovate\n- Update Youtube to 6.4.0 (#123) @renovate\n- Update actions/setup-dotnet digest to 6bd8b7f (#122) @renovate\n- Update CI dependencies (#121) @renovate\n- chore(deps): update oddstr13/jellyfin-plugin-repository-manager action to v1.1.1 (#119) @renovate\n- chore(deps): update actions/checkout digest to 692973e (#117) @renovate\n- chore(deps): update youtube to v6.3.16 (#118) @renovate\n- chore(deps): update youtube to v6.3.15 (#111) @renovate",
+                "targetAbi": "10.9.11.0",
+                "sourceUrl": "https://github.com/David-Moreira/jellyfin-plugin-tmdb-trailers/releases/download/v1.0.0/tmdb-trailers_14.0.0.0.zip",
+                "checksum": "3c14a32b3157d8a758370be9b494cebf",
+                "timestamp": "2025-04-09T21:11:41Z"
+            }
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/crobibero/jellyfin-plugin-tmdb-trailers/master/Jellyfin.Plugin.Tmdb.Trailers/Images/jellyfin-plugin-tmdb.png"
     }
 ]
