@@ -12,7 +12,7 @@
                 "version": "1.0.0.0",
                 "changelog": "Initial",
                 "targetAbi": "10.10.0.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v1/tmdb-trailers_1.0.0.0.zip",
+                "sourceUrl": "https://github.com/David-Moreira/jellyfin-plugin-tmdb-trailers/archive/refs/tags/v1.0.0.zip",
                 "checksum": "e9e8d347e509d9af8be1f7d520fc332f",
                 "timestamp": "2024-10-10T15:50:11Z"
             },
