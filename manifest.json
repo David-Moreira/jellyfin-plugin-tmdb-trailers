@@ -9,61 +9,13 @@
         "imageUrl": "https://raw.githubusercontent.com/crobibero/jellyfin-plugin-tmdb-trailers/master/Jellyfin.Plugin.Tmdb.Trailers/Images/jellyfin-plugin-tmdb.png",
         "versions": [
             {
-                "version": "14.0.0.0",
-                "changelog": "- Update actions/checkout digest to eef6144 - autoclosed (#126) @renovate\n- Update actions/upload-artifact action to v4.4.3 (#127) @renovate\n- Update Youtube to 6.4.3 (#125) @renovate\n- Update Youtube to 6.4.1 (#124) @renovate\n- Update Youtube to 6.4.0 (#123) @renovate\n- Update actions/setup-dotnet digest to 6bd8b7f (#122) @renovate\n- Update CI dependencies (#121) @renovate\n- chore(deps): update oddstr13/jellyfin-plugin-repository-manager action to v1.1.1 (#119) @renovate\n- chore(deps): update actions/checkout digest to 692973e (#117) @renovate\n- chore(deps): update youtube to v6.3.16 (#118) @renovate\n- chore(deps): update youtube to v6.3.15 (#111) @renovate",
-                "targetAbi": "10.9.11.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v14/tmdb-trailers_14.0.0.0.zip",
+                "version": "1.0.0.0",
+                "changelog": "Initial",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v1/tmdb-trailers_1.0.0.0.zip",
                 "checksum": "e9e8d347e509d9af8be1f7d520fc332f",
                 "timestamp": "2024-10-10T15:50:11Z"
             },
-            {
-                "version": "13.0.0.0",
-                "changelog": "- chore(deps): update actions/checkout digest to 0ad4b8f (#114) @renovate\n- chore(deps): update ci dependencies (#110) @renovate\n- chore(deps): update youtube to v6.3.12 (#101) @renovate\n- chore(deps): update dependency tmdblib to v2.1.0 (#102) @renovate\n- chore(deps): update actions/setup-dotnet action to v4 (#103) @renovate\n- chore(deps): update oddstr13/jellyfin-plugin-repository-manager action to v1.0.12 (#104) @renovate\n- chore(deps): update actions/upload-artifact action to v4 - autoclosed (#105) @renovate\n- chore(deps): update dependency stylecop.analyzers to v1.2.0-beta.556 (#106) @renovate\n- chore(deps): update youtube to v6.3.7 (#99) @renovate\n- chore(deps): update ci dependencies (#92) @renovate\n- chore(deps): update dependency tmdblib to v2 (#82) @renovate\n- chore(deps): update dependency microsoft.codeanalysis.netanalyzers to v7.0.4 (#83) @renovate\n- chore(deps): update actions/checkout digest to b4ffde6 (#94) @renovate\n- chore(deps): update oddstr13/jellyfin-plugin-repository-manager action to v1 (#95) @renovate\n- chore(deps): update youtube to v6.3.6 (#97) @renovate\n- chore(deps): update youtube to v6.3.5 (#93) @renovate\n- chore(deps): update youtube to v6.3.3 (#79) @renovate\n- chore(deps): update actions/setup-dotnet digest to 3447fd6 (#80) @renovate\n- chore(deps): update dependency stylecop.analyzers to v1.2.0-beta.507 - autoclosed (#84) @renovate\n- chore(deps): update shogo82148/actions-upload-release-asset action to v1.6.6 (#85) @renovate\n- chore(deps): update actions/checkout action to v4 (#90) @renovate",
-                "targetAbi": "10.9.0.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v13/tmdb-trailers_13.0.0.0.zip",
-                "checksum": "ba5fa2ce3bf1bafbe9fbb71d1245ad4b",
-                "timestamp": "2024-05-12T01:27:44Z"
-            },
-            {
-                "version": "12.0.0.0",
-                "changelog": "- Downgrade tmdblib (#75) @crobibero",
-                "targetAbi": "10.8.10.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v12/tmdb-trailers_12.0.0.0.zip",
-                "checksum": "bfe08e0bf300b5c1e13e001abd54358f",
-                "timestamp": "2023-05-10T00:25:11Z"
-            },
-            {
-                "version": "11.0.0.0",
-                "changelog": "- chore(deps): update youtube to v6.2.14 (#72) @renovate\n- chore(deps): update ci dependencies - autoclosed (#66) @renovate\n- chore(deps): update dependency microsoft.codeanalysis.netanalyzers to v7 (#56) @renovate\n- chore(deps): update actions/checkout digest to 8e5e7e5 (#70) @renovate\n- chore(deps): update youtube to v6.2.13 (#69) @renovate\n- chore(deps): update youtube to v6.2.8 (#68) @renovate\n- chore(deps): update youtube to v6.2.7 (#65) @renovate\n- chore(deps): update dependency tmdblib to v2 (#59) @renovate\n- chore(deps): update dependency youtubeexplode.converter to v6.2.6 (#61) @renovate\n- chore(deps): update dependency youtubeexplode to v6.2.6 (#60) @renovate\n- chore(deps): update actions/upload-artifact action to v3.1.2 (#58) @renovate\n- chore(deps): update actions/checkout digest to ac59398 (#57) @renovate\n- chore(deps): update dependency youtubeexplode.converter to v6.2.5 (#55) @renovate\n- chore(deps): update dependency youtubeexplode to v6.2.5 (#54) @renovate\n- chore(deps): update dependency youtubeexplode.converter to v6.2.4 (#51) @renovate\n- chore(deps): update actions/setup-dotnet digest to 607fce5 (#49) @renovate\n- chore(deps): update dependency youtubeexplode to v6.2.4 (#50) @renovate\n- chore(deps): update ci dependencies (#46) @renovate\n- chore(deps): update actions/setup-dotnet digest to 4d4a70f (#47) @renovate\n- chore(deps): update actions/checkout digest to 93ea575 (#42) @renovate\n- chore(deps): update actions/setup-dotnet action to v3 (#41) @renovate\n- chore(deps): update .net dependencies to v6.2.2 (#39) @renovate\n- chore(deps): update .net dependencies to v6.2.1 (#37) @renovate\n- chore(deps): update ci dependencies (#36) @renovate\n- chore(deps): update .net dependencies (#35) @renovate\n- chore(deps): pin dependencies (#34) @renovate",
-                "targetAbi": "10.8.10.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v11/tmdb-trailers_11.0.0.0.zip",
-                "checksum": "7ae41946e5d0c5b9ee9bf153907a2324",
-                "timestamp": "2023-05-10T00:01:43Z"
-            },
-            {
-                "version": "10.0.0.0",
-                "changelog": "- Fixes applied (#23) @m33ts4k0z",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v9/tmdb-trailers_10.0.0.0.zip",
-                "checksum": "e00885e1f297b4ffe35639e8e94f3495",
-                "timestamp": "2022-05-07T23:58:16Z"
-            },
-            {
-                "version": "8.0.0.0",
-                "changelog": "- Add ability to user trailers as intro (#19) @crobibero\n- Fix saving changes (#17) @crobibero\n- ci(deps): bump shogo82148/actions-upload-release-asset from 1.5.0 to 1.6.2 (#16) @dependabot\n- ci(deps): bump actions/upload-artifact from 2.3.1 to 3.0.0 (#15) @dependabot",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v7/tmdb-trailers_8.0.0.0.zip",
-                "checksum": "a8744cb799dd921e560714b5b205421f",
-                "timestamp": "2022-05-01T23:27:08Z"
-            },
-            {
-                "version": "6.0.0.0",
-                "changelog": "- Prepare for release (#11) @github-actions\n- bump version to 6 (#10) @crobibero",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/crobibero/jellyfin-plugin-tmdb-trailers/releases/download/v6/tmdb-trailers_6.0.0.0.zip",
-                "checksum": "222042eaf8650a5dee11f0e235c69096",
-                "timestamp": "2022-04-24T14:39:53Z"
-            }
         ]
     }
 ]
