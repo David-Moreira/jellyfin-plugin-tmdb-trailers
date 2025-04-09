@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Jellyfin.Plugin.Tmdb.Trailers.Config;
 using MediaBrowser.Common.Configuration;
@@ -38,7 +38,7 @@ public class TmdbTrailerPlugin : BasePlugin<PluginConfiguration>, IHasWebPages
     public override string Description => "Watch movie trailers and extras.";
 
     /// <inheritdoc />
-    public override Guid Id => Guid.Parse("69104C31-D23F-4040-B99C-8913C09751D6");
+    public override Guid Id => Guid.Parse("da813c51-c625-482b-9412-7d68f69a5581");
 
     /// <inheritdoc />
     public IEnumerable<PluginPageInfo> GetPages()
